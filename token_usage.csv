@@ -3081,3 +3081,43 @@ Expense: Therapy Sessions
 6427,612.0,824,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.12",models/gemini-2.5-pro-preview-05-06
 4888,333.0,196,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.12",models/gemini-2.5-pro-preview-05-06
 6584,579.0,1475,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.13",models/gemini-2.5-pro-preview-05-06
+2155,1542.0,536,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.0",models/gemini-2.5-pro-preview-05-06
+3297,319.0,85,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.0",models/gemini-2.5-pro-preview-05-06
+5834,448.0,269,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.1",models/gemini-2.5-pro-preview-05-06
+4770,321.0,166,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.1",models/gemini-2.5-pro-preview-05-06
+7294,393.0,292,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.2",models/gemini-2.5-pro-preview-05-06
+4904,367.0,274,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.2",models/gemini-2.5-pro-preview-05-06
+6875,633.0,1942,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.3",models/gemini-2.5-pro-preview-05-06
+4565,330.0,147,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.3",models/gemini-2.5-pro-preview-05-06
+6138,642.0,284,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.4",models/gemini-2.5-pro-preview-05-06
+4392,333.0,135,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.4",models/gemini-2.5-pro-preview-05-06
+5987,761.0,1083,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.5",models/gemini-2.5-pro-preview-05-06
+4665,344.0,165,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.5",models/gemini-2.5-pro-preview-05-06
+6550,788.0,1024,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.6",models/gemini-2.5-pro-preview-05-06
+4993,350.0,211,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.6",models/gemini-2.5-pro-preview-05-06
+7039,458.0,462,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.7",models/gemini-2.5-pro-preview-05-06
+5131,406.0,225,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.7",models/gemini-2.5-pro-preview-05-06
+6911,557.0,291,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.8",models/gemini-2.5-pro-preview-05-06
+4902,335.0,133,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.8",models/gemini-2.5-pro-preview-05-06
+6880,684.0,1258,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.9",models/gemini-2.5-pro-preview-05-06
+5093,331.0,261,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.9",models/gemini-2.5-pro-preview-05-06
+7075,517.0,407,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.10",models/gemini-2.5-pro-preview-05-06
+5102,390.0,109,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.10",models/gemini-2.5-pro-preview-05-06
+7301,429.0,68,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.11",models/gemini-2.5-pro-preview-05-06
+5301,391.0,144,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.11",models/gemini-2.5-pro-preview-05-06
+7070,479.0,294,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.12",models/gemini-2.5-pro-preview-05-06
+4892,285.0,131,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.12",models/gemini-2.5-pro-preview-05-06
+6886,554.0,358,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.13",models/gemini-2.5-pro-preview-05-06
+5097,289.0,69,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.13",models/gemini-2.5-pro-preview-05-06
+7289,510.0,701,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.14",models/gemini-2.5-pro-preview-05-06
+5332,374.0,122,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.14",models/gemini-2.5-pro-preview-05-06
+7468,508.0,423,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.15",models/gemini-2.5-pro-preview-05-06
+5279,345.0,128,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.15",models/gemini-2.5-pro-preview-05-06
+7351,493.0,491,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.16",models/gemini-2.5-pro-preview-05-06
+5234,303.0,105,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.16",models/gemini-2.5-pro-preview-05-06
+7140,539.0,241,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.17",models/gemini-2.5-pro-preview-05-06
+5115,291.0,124,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.17",models/gemini-2.5-pro-preview-05-06
+7020,681.0,955,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.18",models/gemini-2.5-pro-preview-05-06
+5119,328.0,243,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.18",models/gemini-2.5-pro-preview-05-06
+6340,515.0,428,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.19",models/gemini-2.5-pro-preview-05-06
+4466,320.0,190,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.19",models/gemini-2.5-pro-preview-05-06
