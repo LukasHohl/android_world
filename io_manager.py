@@ -293,7 +293,7 @@ class IOManager:
                 time_to_sleep = 59
                 print("Sleeping for: " + str(time_to_sleep+1))
                 sleep(time_to_sleep + 1)
-        exit(-1)
+        raise Exception("Too many errors!")
 
     def query_gemini(self, task_description, simplified_messages, output_format_json, test_config):
         """This function is used to handle calls to Gemini.
