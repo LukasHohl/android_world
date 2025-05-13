@@ -2829,3 +2829,165 @@ Expense: Stationery
 7267,505.0,357,0,Go through the transactions in my_expenses.txt in Markor. Log the reimbursable transactions in the pro expense.23,models/gemini-2.5-pro-preview-05-06
 5429,287.0,121,0,Go through the transactions in my_expenses.txt in Markor. Log the reimbursable transactions in the pro expense.23,models/gemini-2.5-pro-preview-05-06
 7419,614.0,1420,0,Go through the transactions in my_expenses.txt in Markor. Log the reimbursable transactions in the pro expense.24,models/gemini-2.5-pro-preview-05-06
+2152,975.0,4675,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+0",models/gemini-2.5-pro-preview-05-06
+2992,301.0,205,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+0",models/gemini-2.5-pro-preview-05-06
+5501,321.0,102,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+1",models/gemini-2.5-pro-preview-05-06
+4377,269.0,97,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+1",models/gemini-2.5-pro-preview-05-06
+6827,316.0,277,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+2",models/gemini-2.5-pro-preview-05-06
+4463,293.0,224,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+2",models/gemini-2.5-pro-preview-05-06
+6502,398.0,389,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+3",models/gemini-2.5-pro-preview-05-06
+4227,278.0,121,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+3",models/gemini-2.5-pro-preview-05-06
+5635,682.0,479,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+4",models/gemini-2.5-pro-preview-05-06
+3706,371.0,159,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+4",models/gemini-2.5-pro-preview-05-06
+5420,669.0,677,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+5",models/gemini-2.5-pro-preview-05-06
+4166,273.0,136,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+5",models/gemini-2.5-pro-preview-05-06
+5905,550.0,284,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+6",models/gemini-2.5-pro-preview-05-06
+4199,413.0,468,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+6",models/gemini-2.5-pro-preview-05-06
+6022,645.0,461,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+7",models/gemini-2.5-pro-preview-05-06
+4249,306.0,257,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+7",models/gemini-2.5-pro-preview-05-06
+6072,718.0,862,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+8",models/gemini-2.5-pro-preview-05-06
+4307,340.0,188,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+8",models/gemini-2.5-pro-preview-05-06
+6082,589.0,289,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+9",models/gemini-2.5-pro-preview-05-06
+4254,347.0,197,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+9",models/gemini-2.5-pro-preview-05-06
+6054,528.0,157,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+10",models/gemini-2.5-pro-preview-05-06
+4293,460.0,384,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+10",models/gemini-2.5-pro-preview-05-06
+6117,689.0,569,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+11",models/gemini-2.5-pro-preview-05-06
+4348,286.0,77,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+11",models/gemini-2.5-pro-preview-05-06
+6165,766.0,410,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+12",models/gemini-2.5-pro-preview-05-06
+4418,308.0,290,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+12",models/gemini-2.5-pro-preview-05-06
+6392,800.0,1263,0,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this
+13",models/gemini-2.5-pro-preview-05-06
