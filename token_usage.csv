@@ -3054,3 +3054,30 @@ Expense: Therapy Sessions
 8787,1126.0,6936,0,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.19",models/gemini-2.5-pro-preview-05-06
 6946,435.0,512,0,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.19",models/gemini-2.5-pro-preview-05-06
 9056,674.0,1003,0,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.20",models/gemini-2.5-pro-preview-05-06
+2127,1242.0,169,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.0",models/gemini-2.5-pro-preview-05-06
+3158,300.0,144,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.0",models/gemini-2.5-pro-preview-05-06
+5668,346.0,276,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.1",models/gemini-2.5-pro-preview-05-06
+4540,250.0,103,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.1",models/gemini-2.5-pro-preview-05-06
+7040,376.0,340,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.2",models/gemini-2.5-pro-preview-05-06
+4700,378.0,363,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.2",models/gemini-2.5-pro-preview-05-06
+6751,478.0,495,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.3",models/gemini-2.5-pro-preview-05-06
+4424,487.0,267,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.3",models/gemini-2.5-pro-preview-05-06
+5979,607.0,1476,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.4",models/gemini-2.5-pro-preview-05-06
+4151,341.0,314,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.4",models/gemini-2.5-pro-preview-05-06
+5692,806.0,785,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.5",models/gemini-2.5-pro-preview-05-06
+4446,341.0,1456,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.5",models/gemini-2.5-pro-preview-05-06
+6282,802.0,521,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.6",models/gemini-2.5-pro-preview-05-06
+4740,316.0,157,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.6",models/gemini-2.5-pro-preview-05-06
+6697,570.0,1161,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.7",models/gemini-2.5-pro-preview-05-06
+4808,418.0,284,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.7",models/gemini-2.5-pro-preview-05-06
+6409,721.0,1682,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.8",models/gemini-2.5-pro-preview-05-06
+4566,347.0,371,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.8",models/gemini-2.5-pro-preview-05-06
+6388,534.0,297,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.9",models/gemini-2.5-pro-preview-05-06
+4773,323.0,140,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.9",models/gemini-2.5-pro-preview-05-06
+6675,616.0,1702,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.10",models/gemini-2.5-pro-preview-05-06
+4810,403.0,151,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.10",models/gemini-2.5-pro-preview-05-06
+6418,660.0,324,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.11",models/gemini-2.5-pro-preview-05-06
+4578,319.0,171,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.11",models/gemini-2.5-pro-preview-05-06
+6427,612.0,824,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.12",models/gemini-2.5-pro-preview-05-06
+4888,333.0,196,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.12",models/gemini-2.5-pro-preview-05-06
+6584,579.0,1475,0,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.13",models/gemini-2.5-pro-preview-05-06
