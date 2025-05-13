@@ -24,7 +24,7 @@ from android_world.env import json_action
 class HumanAgent(base_agent.EnvironmentInteractingAgent):
   """Human agent; wait for user to indicate they are done."""
 
-  def step(self, goal: str) -> base_agent.AgentInteractionResult:
+  def step(self, goal: str, n) -> base_agent.AgentInteractionResult:
     del goal
     response = input(
         'Human playing! Hit enter when you are ready for evaluation (or q to'
