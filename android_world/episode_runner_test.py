@@ -37,7 +37,7 @@ class FakeEnvironmentInteractingAgent(base_agent.EnvironmentInteractingAgent):
     if return_data is None:
       self.return_data = {}
 
-  def step(self, goal: str) -> base_agent.AgentInteractionResult:
+  def step(self, goal: str, n = 0) -> base_agent.AgentInteractionResult:
     self.call_count += 1
     return base_agent.AgentInteractionResult(
         done=self.return_done, data=self.return_data

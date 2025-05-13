@@ -363,7 +363,7 @@ class M3A(base_agent.EnvironmentInteractingAgent):
     self.env.hide_automation_ui()
     self.history = []
 
-  def step(self, goal: str) -> base_agent.AgentInteractionResult:
+  def step(self, goal: str, n = 0) -> base_agent.AgentInteractionResult:
     step_data = {
         'raw_screenshot': None,
         'before_screenshot_with_som': None,

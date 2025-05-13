@@ -32,8 +32,9 @@ class BachelorAgent2(base_agent.EnvironmentInteractingAgent):
     self.inout.answer = ""
     self.test_config.task = goal
     b = self.inout.base_directory
+    print(b)
     print("This should be the expected number of steps:", n)
-    m = 3*n
+    m = 2*n
     print("Running agent for:" + str(m) +"steps.")
     self.test_config.max_steps = m
     self.inout.base_directory= b/self.test_config.sub_folder

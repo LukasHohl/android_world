@@ -78,7 +78,7 @@ def run_episode(
 
   output = []
   for step_n in range(max_n_steps):
-    result = agent.step(goal)
+    result = agent.step(goal, max_n_steps)
     print_fn('Completed step {:d}.'.format(step_n + 1))
     assert constants.STEP_NUMBER not in result.data
     output.append(result.data | {constants.STEP_NUMBER: step_n})

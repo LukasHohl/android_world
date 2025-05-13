@@ -201,7 +201,7 @@ class IOManager:
         self.step = 0
         if (not self.base_directory.exists()):
             raise FileNotFoundError(
-                "The base directory for the current task does not exist: "+str(self.current_task_directory))
+                "The base directory for the current task does not exist: "+str(self.base_directory))
         try:
             folder = configuration.generate_hash()
             self.current_task_directory = self.base_directory / folder

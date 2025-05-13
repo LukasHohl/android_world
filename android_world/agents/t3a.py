@@ -298,7 +298,7 @@ class T3A(base_agent.EnvironmentInteractingAgent):
   def set_task_guidelines(self, task_guidelines: list[str]) -> None:
     self.additional_guidelines = task_guidelines
 
-  def step(self, goal: str) -> base_agent.AgentInteractionResult:
+  def step(self, goal: str, n = 0) -> base_agent.AgentInteractionResult:
     step_data = {
         'before_screenshot': None,
         'after_screenshot': None,

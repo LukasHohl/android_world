@@ -116,7 +116,7 @@ class EnvironmentInteractingAgent(abc.ABC):
       return self.env.get_state(wait_to_stabilize=False)
 
   @abc.abstractmethod
-  def step(self, goal: str) -> AgentInteractionResult:
+  def step(self, goal: str, n = 0) -> AgentInteractionResult:
     """Performs a step of the agent on the environment.
 
     Args:

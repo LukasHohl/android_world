@@ -136,7 +136,7 @@ class SeeAct(base_agent.EnvironmentInteractingAgent):
     self.additional_guidelines = task_guidelines
 
   def step(
-      self, goal: str, verbose: bool = True
+      self, goal: str, verbose: bool = True, n = 0
   ) -> base_agent.AgentInteractionResult:
     result = {
         "ui_elements": None,

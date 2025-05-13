@@ -95,7 +95,7 @@ class RandomAgent(base_agent.EnvironmentInteractingAgent):
     super().__init__(env, name)
     self._verbose = verbose
 
-  def step(self, goal: str) -> base_agent.AgentInteractionResult:
+  def step(self, goal: str, n = 0) -> base_agent.AgentInteractionResult:
     """See base class."""
     state = self.get_post_transition_state()
     action = _generate_random_action(self.env.device_screen_size)
