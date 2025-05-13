@@ -31,6 +31,7 @@ from android_world import registry
 from android_world import suite_utils
 from android_world.agents import base_agent
 from android_world.agents import human_agent
+from android_world.agents import bachelor_agent_2
 from android_world.agents import infer
 from android_world.agents import m3a
 from android_world.agents import random_agent
@@ -137,6 +138,18 @@ _FIXED_TASK_SEED = flags.DEFINE_boolean(
     ' (n_task_combinations > 1).',
 )
 
+_START = flags.DEFINE_integer(
+  'start',
+  0,
+  'Give the part of benchmark tasks you want to run.'
+  )
+
+_END = flags.DEFINE_integer(
+  'end',
+  116,
+  'Give the part of benchmark tasks you want to run.'
+  )
+
 
 # MiniWoB is very lightweight and new screens/View Hierarchy load quickly.
 _MINIWOB_TRANSITION_PAUSE = 0.2
@@ -159,6 +172,8 @@ def _get_agent(
   agent = None
   if _AGENT_NAME.value == 'human_agent':
     agent = human_agent.HumanAgent(env)
+  elif _AGENT_NAME.value == "bachelor_agent_2":
+    agent = bachelor_agent_2.BachelorAgent2(env)
   elif _AGENT_NAME.value == 'random_agent':
     agent = random_agent.RandomAgent(env)
   # Gemini.
@@ -204,8 +219,11 @@ def _main() -> None:
 
   n_task_combinations = _N_TASK_COMBINATIONS.value
   task_registry = registry.TaskRegistry()
+  tasks = task_registry.get_registry(family=_SUITE_FAMILY.value)
+  task = dict(list(tasks.items())[_START.value:_END.value])
+  print("Running tasks :"+ str(_START.value)+" - "+ str(_END.value))
   suite = suite_utils.create_suite(
-      task_registry.get_registry(family=_SUITE_FAMILY.value),
+      task,
       n_task_combinations=n_task_combinations,
       seed=_TASK_RANDOM_SEED.value,
       tasks=_TASKS.value,
