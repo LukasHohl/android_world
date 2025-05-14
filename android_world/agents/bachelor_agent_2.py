@@ -25,7 +25,7 @@ class BachelorAgent2(base_agent.EnvironmentInteractingAgent):
     self.inout = IOManager(base_directory=p/folder, verbose=False,
                       overwrite=True, wait_between_calls=False)
     model = "gemini-2.5-pro-preview-05-06"
-    sub_folder = "4"
+    sub_folder = "5" # I change this number per hand to not loose track of tasks. (I was too lazy to change the folder naming scheme)
     self.test_config = TestConfiguration(task="", model=model, sub_folder=sub_folder, action_vis= True)
 
   def step(self, goal: str, n = 0) -> base_agent.AgentInteractionResult:
