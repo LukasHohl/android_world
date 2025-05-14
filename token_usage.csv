@@ -3861,3 +3861,9 @@ Expense: Therapy Sessions
 7185,351.0,102,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.3,models/gemini-2.5-pro-preview-05-06
 7143,622.0,216,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.4,models/gemini-2.5-pro-preview-05-06
 6416,342.0,338,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.4,models/gemini-2.5-pro-preview-05-06
+4222,725.0,2318,0,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.0,models/gemini-2.5-pro-preview-05-06
+4868,334.0,160,0,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.0,models/gemini-2.5-pro-preview-05-06
+5360,413.0,228,0,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.1,models/gemini-2.5-pro-preview-05-06
+6299,303.0,141,0,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.1,models/gemini-2.5-pro-preview-05-06
+5878,519.0,156,0,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.2,models/gemini-2.5-pro-preview-05-06
+5583,312.0,115,0,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.2,models/gemini-2.5-pro-preview-05-06
