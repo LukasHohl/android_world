@@ -7131,3 +7131,47 @@ Recipe: Chicken Caesar Salad Wrap
 5631,332.0,214,0,Delete the recipes from Broccoli app that use black garlic in the directions.57,models/gemini-2.5-pro-preview-05-06
 7034,895.0,3254,0,Delete the recipes from Broccoli app that use black garlic in the directions.58,models/gemini-2.5-pro-preview-05-06
 4800,431.0,204,0,Delete the recipes from Broccoli app that use black garlic in the directions.58,models/gemini-2.5-pro-preview-05-06
+2210,1593.0,1159,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.0",models/gemini-2.5-pro-preview-05-06
+3549,313.0,199,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.0",models/gemini-2.5-pro-preview-05-06
+6090,485.0,214,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.1",models/gemini-2.5-pro-preview-05-06
+4978,314.0,169,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.1",models/gemini-2.5-pro-preview-05-06
+6419,582.0,1832,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.2",models/gemini-2.5-pro-preview-05-06
+4081,315.0,159,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.2",models/gemini-2.5-pro-preview-05-06
+5526,666.0,778,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.3",models/gemini-2.5-pro-preview-05-06
+4285,424.0,178,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.3",models/gemini-2.5-pro-preview-05-06
+5778,745.0,477,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.4",models/gemini-2.5-pro-preview-05-06
+4515,387.0,264,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.4",models/gemini-2.5-pro-preview-05-06
+5923,966.0,989,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.5",models/gemini-2.5-pro-preview-05-06
+4760,386.0,275,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.5",models/gemini-2.5-pro-preview-05-06
+6158,691.0,2108,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.6",models/gemini-2.5-pro-preview-05-06
+4764,364.0,1535,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.6",models/gemini-2.5-pro-preview-05-06
+6244,747.0,1178,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.7",models/gemini-2.5-pro-preview-05-06
+4877,301.0,104,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.7",models/gemini-2.5-pro-preview-05-06
+6400,629.0,480,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.8",models/gemini-2.5-pro-preview-05-06
+4808,286.0,220,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.8",models/gemini-2.5-pro-preview-05-06
+6228,652.0,771,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.9",models/gemini-2.5-pro-preview-05-06
+4762,306.0,215,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.9",models/gemini-2.5-pro-preview-05-06
+6190,808.0,1840,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.10",models/gemini-2.5-pro-preview-05-06
+4798,302.0,213,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.10",models/gemini-2.5-pro-preview-05-06
+6224,731.0,633,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.11",models/gemini-2.5-pro-preview-05-06
+4858,316.0,210,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.11",models/gemini-2.5-pro-preview-05-06
+6288,709.0,245,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.12",models/gemini-2.5-pro-preview-05-06
+4886,351.0,169,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.12",models/gemini-2.5-pro-preview-05-06
+6296,776.0,566,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.13",models/gemini-2.5-pro-preview-05-06
+4929,323.0,181,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.13",models/gemini-2.5-pro-preview-05-06
+6404,641.0,512,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.14",models/gemini-2.5-pro-preview-05-06
+4977,406.0,154,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.14",models/gemini-2.5-pro-preview-05-06
+6468,604.0,897,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.15",models/gemini-2.5-pro-preview-05-06
+4885,397.0,119,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.15",models/gemini-2.5-pro-preview-05-06
+6307,496.0,1014,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.16",models/gemini-2.5-pro-preview-05-06
+4767,,8192,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.16",models/gemini-2.5-pro-preview-05-06
+4767,282.0,305,3748,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.16",models/gemini-2.5-pro-preview-05-06
+6208,570.0,444,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.17",models/gemini-2.5-pro-preview-05-06
+4769,298.0,104,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.17",models/gemini-2.5-pro-preview-05-06
+6290,637.0,861,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.18",models/gemini-2.5-pro-preview-05-06
+4697,329.0,236,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.18",models/gemini-2.5-pro-preview-05-06
+6171,637.0,269,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.19",models/gemini-2.5-pro-preview-05-06
+4670,359.0,102,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.19",models/gemini-2.5-pro-preview-05-06
+6014,583.0,383,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.20",models/gemini-2.5-pro-preview-05-06
+4482,357.0,111,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.20",models/gemini-2.5-pro-preview-05-06
+5826,714.0,2253,0,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.21",models/gemini-2.5-pro-preview-05-06
