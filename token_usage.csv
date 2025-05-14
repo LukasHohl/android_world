@@ -6344,3 +6344,75 @@ Recipe: Butternut Squash Soup
 5004,,8192,0,Add the recipes from recipes.txt in Markor that take 10 mins to prepare into the Broccoli recipe app.3,models/gemini-2.5-pro-preview-05-06
 5004,,8192,3818,Add the recipes from recipes.txt in Markor that take 10 mins to prepare into the Broccoli recipe app.3,models/gemini-2.5-pro-preview-05-06
 5004,,8192,0,Add the recipes from recipes.txt in Markor that take 10 mins to prepare into the Broccoli recipe app.3,models/gemini-2.5-pro-preview-05-06
+2273,1648.0,589,0,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.
+0",models/gemini-2.5-pro-preview-05-06
+3567,339.0,97,0,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.
+0",models/gemini-2.5-pro-preview-05-06
+6133,408.0,196,0,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.
+1",models/gemini-2.5-pro-preview-05-06
+5020,270.0,166,0,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.
+1",models/gemini-2.5-pro-preview-05-06
+6492,508.0,196,0,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.
+2",models/gemini-2.5-pro-preview-05-06
+4112,334.0,151,0,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.
+2",models/gemini-2.5-pro-preview-05-06
+5532,969.0,760,0,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.
+3",models/gemini-2.5-pro-preview-05-06
+4372,317.0,183,0,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.
+3",models/gemini-2.5-pro-preview-05-06
+6104,633.0,944,0,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.
+4",models/gemini-2.5-pro-preview-05-06
