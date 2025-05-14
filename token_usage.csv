@@ -3867,3 +3867,38 @@ Expense: Therapy Sessions
 6299,303.0,141,0,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.1,models/gemini-2.5-pro-preview-05-06
 5878,519.0,156,0,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.2,models/gemini-2.5-pro-preview-05-06
 5583,312.0,115,0,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.2,models/gemini-2.5-pro-preview-05-06
+4210,2097.0,5783,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.0",models/gemini-2.5-pro-preview-05-06
+5639,273.0,80,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.0",models/gemini-2.5-pro-preview-05-06
+6094,671.0,2006,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.1",models/gemini-2.5-pro-preview-05-06
+7197,277.0,98,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.1",models/gemini-2.5-pro-preview-05-06
+7612,491.0,446,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.2",models/gemini-2.5-pro-preview-05-06
+7200,431.0,175,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.2",models/gemini-2.5-pro-preview-05-06
+6286,538.0,1240,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.3",models/gemini-2.5-pro-preview-05-06
+6074,392.0,307,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.3",models/gemini-2.5-pro-preview-05-06
+6267,564.0,391,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.4",models/gemini-2.5-pro-preview-05-06
+7289,264.0,128,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.4",models/gemini-2.5-pro-preview-05-06
+7468,714.0,1627,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.5",models/gemini-2.5-pro-preview-05-06
+7589,377.0,954,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.5",models/gemini-2.5-pro-preview-05-06
+6870,798.0,1335,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.6",models/gemini-2.5-pro-preview-05-06
+6673,296.0,172,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.6",models/gemini-2.5-pro-preview-05-06
+6078,951.0,3394,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.7",models/gemini-2.5-pro-preview-05-06
+6879,296.0,147,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.7",models/gemini-2.5-pro-preview-05-06
+6108,709.0,541,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.8",models/gemini-2.5-pro-preview-05-06
+6732,412.0,355,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.8",models/gemini-2.5-pro-preview-05-06
+6169,799.0,2185,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.9",models/gemini-2.5-pro-preview-05-06
+6961,337.0,235,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.9",models/gemini-2.5-pro-preview-05-06
+7176,720.0,231,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.10",models/gemini-2.5-pro-preview-05-06
+7701,375.0,298,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.10",models/gemini-2.5-pro-preview-05-06
+7035,853.0,537,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.11",models/gemini-2.5-pro-preview-05-06
+6803,391.0,279,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.11",models/gemini-2.5-pro-preview-05-06
+6202,742.0,2037,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.12",models/gemini-2.5-pro-preview-05-06
+6802,399.0,382,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.12",models/gemini-2.5-pro-preview-05-06
+6173,760.0,856,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.13",models/gemini-2.5-pro-preview-05-06
+6836,384.0,149,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.13",models/gemini-2.5-pro-preview-05-06
+7658,645.0,542,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.14",models/gemini-2.5-pro-preview-05-06
+8310,313.0,149,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.14",models/gemini-2.5-pro-preview-05-06
+9129,536.0,290,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.15",models/gemini-2.5-pro-preview-05-06
+8377,340.0,148,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.15",models/gemini-2.5-pro-preview-05-06
+9185,645.0,959,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.16",models/gemini-2.5-pro-preview-05-06
+8323,301.0,172,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.16",models/gemini-2.5-pro-preview-05-06
+7712,710.0,965,0,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.17",models/gemini-2.5-pro-preview-05-06
