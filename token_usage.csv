@@ -3851,3 +3851,13 @@ Expense: Therapy Sessions
 5869,332.0,223,0,What quantity of spirulina do I need for the recipe 'Chicken Alfredo' in the Joplin app? Express your answer in the format <amount> <unit> where both the amount and unit exactly match the format in the recipe.6,models/gemini-2.5-pro-preview-05-06
 5360,637.0,397,0,What quantity of spirulina do I need for the recipe 'Chicken Alfredo' in the Joplin app? Express your answer in the format <amount> <unit> where both the amount and unit exactly match the format in the recipe.7,models/gemini-2.5-pro-preview-05-06
 6321,336.0,266,0,What quantity of spirulina do I need for the recipe 'Chicken Alfredo' in the Joplin app? Express your answer in the format <amount> <unit> where both the amount and unit exactly match the format in the recipe.7,models/gemini-2.5-pro-preview-05-06
+4203,953.0,1201,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.0,models/gemini-2.5-pro-preview-05-06
+5009,273.0,133,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.0,models/gemini-2.5-pro-preview-05-06
+5460,345.0,390,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.1,models/gemini-2.5-pro-preview-05-06
+6367,341.0,168,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.1,models/gemini-2.5-pro-preview-05-06
+6405,464.0,1385,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.2,models/gemini-2.5-pro-preview-05-06
+6137,344.0,194,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.2,models/gemini-2.5-pro-preview-05-06
+7045,473.0,303,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.3,models/gemini-2.5-pro-preview-05-06
+7185,351.0,102,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.3,models/gemini-2.5-pro-preview-05-06
+7143,622.0,216,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.4,models/gemini-2.5-pro-preview-05-06
+6416,342.0,338,0,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.4,models/gemini-2.5-pro-preview-05-06
