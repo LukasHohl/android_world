@@ -3121,3 +3121,16 @@ Expense: Therapy Sessions
 5119,328.0,243,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.18",models/gemini-2.5-pro-preview-05-06
 6340,515.0,428,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.19",models/gemini-2.5-pro-preview-05-06
 4466,320.0,190,0,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.19",models/gemini-2.5-pro-preview-05-06
+2123,1349.0,1150,0,Delete the following expenses from pro expense: Rental Income.0,models/gemini-2.5-pro-preview-05-06
+3151,353.0,165,0,Delete the following expenses from pro expense: Rental Income.0,models/gemini-2.5-pro-preview-05-06
+5678,809.0,974,0,Delete the following expenses from pro expense: Rental Income.1,models/gemini-2.5-pro-preview-05-06
+4665,291.0,143,0,Delete the following expenses from pro expense: Rental Income.1,models/gemini-2.5-pro-preview-05-06
+7156,613.0,463,0,Delete the following expenses from pro expense: Rental Income.2,models/gemini-2.5-pro-preview-05-06
+4792,340.0,174,0,Delete the following expenses from pro expense: Rental Income.2,models/gemini-2.5-pro-preview-05-06
+6694,1064.0,2431,0,Delete the following expenses from pro expense: Rental Income.3,models/gemini-2.5-pro-preview-05-06
+4488,376.0,122,0,Delete the following expenses from pro expense: Rental Income.3,models/gemini-2.5-pro-preview-05-06
+6055,1059.0,2105,0,Delete the following expenses from pro expense: Rental Income.4,models/gemini-2.5-pro-preview-05-06
+4423,338.0,341,0,Delete the following expenses from pro expense: Rental Income.4,models/gemini-2.5-pro-preview-05-06
+6291,691.0,1198,0,Delete the following expenses from pro expense: Rental Income.5,models/gemini-2.5-pro-preview-05-06
+4937,337.0,141,0,Delete the following expenses from pro expense: Rental Income.5,models/gemini-2.5-pro-preview-05-06
+6627,579.0,948,0,Delete the following expenses from pro expense: Rental Income.6,models/gemini-2.5-pro-preview-05-06
