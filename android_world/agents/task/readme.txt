@@ -15,3 +15,6 @@ Similarly for the clock task (ClockStopWatchPausedVerify, ClockStopWatchRunning,
 For the last 2 the agent did what was expected, but the automatic grading said failure. I graded those as success.
 
 So far you could just remove 6 success and 6 task to calculate the success rate?
+
+
+While testing I saw that these Simple apps have a different name. I thought it was kinda pointless to watch the agent fail for hours trying to find the apps, so I added a tip.

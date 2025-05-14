@@ -37,6 +37,7 @@ INIT_TIPS = """0. Do not add any payment information. If you are asked to sign i
 15. You are really bad at recognizing sliders. If you see a search bar, when you need a slider try swiping on it to check if it is actually a slider. Important: Do not just swipe on the screen without an element that could be a slider. Seriously, do not just assume that a slider is somewhere without a good reason like a long object that you think could be searchbar.
 16. If you want to set a slider all the way to the right or the left, swipe more than needed to ensure the correct result.
 17. Pressing 'Back' while the virtual keyboard is open will close the keyboard. If you want to navigate to the previous page, prefer tapping on user interface elements to save a step.
+18. Some tasks ask you to work with apps like 'Simple Gallery Pro', 'Simple Calendar Pro', or other 'Simple Something Pro' apps. The name of these Simple Pro apps is displayed differently: e.g., for 'Simple Gallery Pro' the app name is 'Gallery', for 'Simple Calendar Pro' it is 'Calendar' and so on.
 """
 
 # Text, that is used multiple times:
