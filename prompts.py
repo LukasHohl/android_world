@@ -38,6 +38,7 @@ INIT_TIPS = """0. Do not add any payment information. If you are asked to sign i
 16. If you want to set a slider all the way to the right or the left, swipe more than needed to ensure the correct result.
 17. Pressing 'Back' while the virtual keyboard is open will close the keyboard. If you want to navigate to the previous page, prefer tapping on user interface elements to save a step.
 18. Some tasks ask you to work with apps like 'Simple Gallery Pro', 'Simple Calendar Pro', or other 'Simple Something Pro' apps. The name of these Simple Pro apps is displayed differently: e.g., for 'Simple Gallery Pro' the app name is 'Gallery', for 'Simple Calendar Pro' it is 'Calendar' and so on.
+19. Instead of 'Simple SMS Messenger' use the 'Simple SMS Messenger' app.
 """
 
 # Text, that is used multiple times:
