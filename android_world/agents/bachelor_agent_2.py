@@ -26,7 +26,7 @@ class BachelorAgent2(base_agent.EnvironmentInteractingAgent):
                       overwrite=True, wait_between_calls=False)
     model = "gemini-2.5-pro-preview-05-06"
     sub_folder = "10" # I change this number per hand to not loose track of tasks. (I was too lazy to change the folder naming scheme)
-    self.test_config = TestConfiguration(task="", model=model, sub_folder=sub_folder, action_vis= True, number = 2) # Lol some tasks have the same name
+    self.test_config = TestConfiguration(task="", model=model, sub_folder=sub_folder, action_vis= True, number = 1) # Lol some tasks have the same name
     #fail, I now have to change this number per hand a couple times, not so bad
 
   def step(self, goal: str, n = 0) -> base_agent.AgentInteractionResult:
