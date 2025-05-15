@@ -34,7 +34,7 @@ class BachelorAgent2(base_agent.EnvironmentInteractingAgent):
     self.test_config.task = goal
     b = self.inout.base_directory
     print(b)
-    print("This should be the expected number of steps:", n)
+    print("This should be the expected number of steps:", n) # wrong this was the original max (so 2 times expected)
     m = 2*n
     print("Running agent for:" + str(m) +"steps.")
     self.test_config.max_steps = m
