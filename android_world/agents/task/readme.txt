@@ -20,3 +20,4 @@ So far you could just remove 6 success and 6 task to calculate the success rate?
 
 While testing I saw that these Simple apps have a different name. I thought it was kinda pointless to watch the agent fail for hours trying to find the apps, so I added a tip.
 Maybe the name of the Simple Apps changed? At least I think the tasks are wrong these are not the Pro version. Those should cost money.
+Additionally I added knowledge about which SMS app to use. "Simple SMS Messenger" -> "SMS Messenger" Their naming scheme is not even consistent.
