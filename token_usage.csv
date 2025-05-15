@@ -8596,3 +8596,11 @@ Recipe: Chicken Caesar Salad Wrap
 4931,415.0,393,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.9,models/gemini-2.5-pro-preview-05-06
 6536,1055.0,2616,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.10,models/gemini-2.5-pro-preview-05-06
 4634,371.0,146,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.10,models/gemini-2.5-pro-preview-05-06
+2365,1552.0,3929,0,"What tasks do I have due October 24 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.0",models/gemini-2.5-pro-preview-05-06
+3576,295.0,142,0,"What tasks do I have due October 24 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.0",models/gemini-2.5-pro-preview-05-06
+6196,440.0,437,0,"What tasks do I have due October 24 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.1",models/gemini-2.5-pro-preview-05-06
+5005,267.0,124,0,"What tasks do I have due October 24 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.1",models/gemini-2.5-pro-preview-05-06
+7523,476.0,220,0,"What tasks do I have due October 24 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.2",models/gemini-2.5-pro-preview-05-06
+5018,310.0,149,0,"What tasks do I have due October 24 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.2",models/gemini-2.5-pro-preview-05-06
+7097,712.0,1405,0,"What tasks do I have due October 24 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.3",models/gemini-2.5-pro-preview-05-06
+4755,311.0,86,0,"What tasks do I have due October 24 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.3",models/gemini-2.5-pro-preview-05-06
