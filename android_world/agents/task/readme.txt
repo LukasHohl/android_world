@@ -8,12 +8,12 @@ Maybe the name of the Simple Apps changed? At least I think the tasks are wrong 
 Additionally I added knowledge about which SMS app to use. "Simple SMS Messenger" -> "SMS Messenger" Their naming scheme is not even consistent.
 (These will count to the success rate.)
 
-The following text is a little confusing. I will not count any task where the results were in doubt in the final result (in my work).
+The following text is a little confusing. Despite what I say below, I will not count any task where the results were in doubt in the final result (in my work).
 This means I will simply subtract 6 from the number of success : true. (As I marked them as correct, but I want to understate the results.)
 
 I suspect I do not have the correct version of the emulator? Maybe an incorrect image?
 
-Additionally, I graded some task per hand because of  grading errors like this:
+Additionally, I graded some task per hand (for the other 110 tasks I just copied the results, I always entered the success value per hand, because I did not care enough to automatize) because of grading errors like this:
 android_world/agents/task/0/fbdc5d7ea9af17de
 The agent clearly followed the instructions but did not get a success. I changed the grading.
 
