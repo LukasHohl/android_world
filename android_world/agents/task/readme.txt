@@ -3,6 +3,8 @@ Do not forget to install ADBKeyboard.
 By accident I doubled the limit of max steps as I assumed that Android World would give me the expected numbers of steps but they gave me double that.
 If there is an error with Gemini (e.g., server problems, no internet connection), a task is restarted.
 
+I suspect I do not have the correct version of the emulator? Maybe an incorrect image?
+
 Additionally, I graded some task per hand because of  grading errors like this:
 android_world/agents/task/0/fbdc5d7ea9af17de
 The agent clearly followed the instructions but did not get a success. I changed the grading.
