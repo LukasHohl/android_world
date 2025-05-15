@@ -8574,3 +8574,25 @@ Recipe: Chicken Caesar Salad Wrap
 5412,364.0,181,0,"Which tasks have I completed for October 16 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.18",models/gemini-2.5-pro-preview-05-06
 7497,1010.0,2680,0,"Which tasks have I completed for October 16 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.19",models/gemini-2.5-pro-preview-05-06
 5545,492.0,980,0,"Which tasks have I completed for October 16 2023 in Tasks app? Answer with the titles only. If there are multiples titles, format your answer in a comma separated list.19",models/gemini-2.5-pro-preview-05-06
+2351,1274.0,2828,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.0,models/gemini-2.5-pro-preview-05-06
+3245,290.0,131,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.0,models/gemini-2.5-pro-preview-05-06
+5866,357.0,265,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.1,models/gemini-2.5-pro-preview-05-06
+4653,365.0,149,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.1,models/gemini-2.5-pro-preview-05-06
+7249,449.0,870,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.2,models/gemini-2.5-pro-preview-05-06
+4781,364.0,411,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.2,models/gemini-2.5-pro-preview-05-06
+6736,664.0,4124,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.3,models/gemini-2.5-pro-preview-05-06
+4378,533.0,4062,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.3,models/gemini-2.5-pro-preview-05-06
+6464,875.0,3892,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.4,models/gemini-2.5-pro-preview-05-06
+4739,433.0,270,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.4,models/gemini-2.5-pro-preview-05-06
+6754,927.0,3436,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.5,models/gemini-2.5-pro-preview-05-06
+4983,425.0,2076,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.5,models/gemini-2.5-pro-preview-05-06
+7134,928.0,3182,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.6,models/gemini-2.5-pro-preview-05-06
+5278,363.0,129,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.6,models/gemini-2.5-pro-preview-05-06
+7000,759.0,641,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.7,models/gemini-2.5-pro-preview-05-06
+4875,309.0,206,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.7,models/gemini-2.5-pro-preview-05-06
+6867,676.0,374,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.8,models/gemini-2.5-pro-preview-05-06
+5099,433.0,198,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.8,models/gemini-2.5-pro-preview-05-06
+6962,908.0,4403,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.9,models/gemini-2.5-pro-preview-05-06
+4931,415.0,393,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.9,models/gemini-2.5-pro-preview-05-06
+6536,1055.0,2616,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.10,models/gemini-2.5-pro-preview-05-06
+4634,371.0,146,0,How many tasks do I have due next week in Tasks app? Assume the week starts from Monday. Express your answer as a single integer.10,models/gemini-2.5-pro-preview-05-06
