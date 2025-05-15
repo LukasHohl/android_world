@@ -1,3 +1,5 @@
+Do not forget to install ADBKeyboard.
+
 By accident I doubled the limit of max steps as I assumed that Android World would give me the expected numbers of steps but they gave me double that.
 If there is an error with Gemini (e.g., server problems, no internet connection), a task is restarted.
 
