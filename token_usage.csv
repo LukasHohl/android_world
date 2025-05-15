@@ -8225,3 +8225,11 @@ Recipe: Chicken Caesar Salad Wrap
 5564,361.0,139,0,"What activities did I do October 01 in the OpenTracks app? Answer with the activity type only. If there are multiple types, format your answer in a comma separated list.5",models/gemini-2.5-pro-preview-05-06
 8249,746.0,4524,0,"What activities did I do October 01 in the OpenTracks app? Answer with the activity type only. If there are multiple types, format your answer in a comma separated list.6",models/gemini-2.5-pro-preview-05-06
 5655,372.0,545,0,"What activities did I do October 01 in the OpenTracks app? Answer with the activity type only. If there are multiple types, format your answer in a comma separated list.6",models/gemini-2.5-pro-preview-05-06
+2355,1063.0,993,0,How long was my skiing activity October 12 2023 in the OpenTracks app? Express your answer in minutes as a single integer.0,models/gemini-2.5-pro-preview-05-06
+3216,304.0,155,0,How long was my skiing activity October 12 2023 in the OpenTracks app? Express your answer in minutes as a single integer.0,models/gemini-2.5-pro-preview-05-06
+5826,584.0,1118,0,How long was my skiing activity October 12 2023 in the OpenTracks app? Express your answer in minutes as a single integer.1,models/gemini-2.5-pro-preview-05-06
+4668,285.0,202,0,How long was my skiing activity October 12 2023 in the OpenTracks app? Express your answer in minutes as a single integer.1,models/gemini-2.5-pro-preview-05-06
+7214,479.0,352,0,How long was my skiing activity October 12 2023 in the OpenTracks app? Express your answer in minutes as a single integer.2,models/gemini-2.5-pro-preview-05-06
+4735,314.0,454,0,How long was my skiing activity October 12 2023 in the OpenTracks app? Express your answer in minutes as a single integer.2,models/gemini-2.5-pro-preview-05-06
+7492,587.0,2745,0,How long was my skiing activity October 12 2023 in the OpenTracks app? Express your answer in minutes as a single integer.3,models/gemini-2.5-pro-preview-05-06
+5122,644.0,3388,0,How long was my skiing activity October 12 2023 in the OpenTracks app? Express your answer in minutes as a single integer.3,models/gemini-2.5-pro-preview-05-06
