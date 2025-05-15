@@ -1,4 +1,5 @@
 By accident I doubled the limit of max steps as I assumed that Android World would give me the expected numbers of steps but they gave me double that.
+If there is an error with Gemini (e.g., server problems, no internet connection), a task is restarted.
 
 Additionally, I graded some task per hand because of  grading errors like this:
 android_world/agents/task/0/fbdc5d7ea9af17de
